@@ -24,8 +24,8 @@ public class VKtest {
     System.out.println();
     System.out.println();
     for (int x=0 ;x+1>x ;x++ ) {
-      int h=  (int) (Math.random() *wort.size());
-      int r=  (int) (Math.random() *2);
+      int h = (int) (Math.random() *wort.size());
+      int r = (int) (Math.random() *2);
       if (r>0) {
       System.out.println(" " +wort.get(h));
       System.out.println(" Lousung:");
